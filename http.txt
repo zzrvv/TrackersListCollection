@@ -20,13 +20,17 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ftp.pet:2710/announce
+http://buny.uk:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker01-msk-virt.corbina.net:80/announce
+
+http://supertracker.cc.cd:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -40,15 +44,11 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -95,6 +95,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.adgk.net:443/announce
 
 https://tracker.bug38.com:443/announce
 
